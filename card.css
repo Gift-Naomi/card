@@ -1,0 +1,82 @@
+
+
+
+.parent-div{
+  background-color:#fafaf9;
+  height: 900px;
+  width: 1280px;
+  display: flex;
+  align-items: center;
+justify-content: center;
+cursor: pointer;
+
+}
+.card-body{
+  background-color:white;
+  width: 336px;
+  height: 420px;
+  border-radius: 16px;
+  border: 16px solid white;
+  box-shadow: 10px 3px 22px -10px rgba(0,0,0,0.85);
+-webkit-box-shadow: 10px 3px 22px -10px rgba(0,0,0,0.85);
+-moz-box-shadow: 10px 3px 22px -10px rgba(0,0,0,0.85);
+
+}
+
+.card-body img{
+  width: 336px;
+  height: 210px;
+  border-radius: 16px;
+  
+}
+div:nth-child(2){
+  color: #ad78ec;
+  font-family: roboto,arial;
+  font-weight: bold;
+  font-size: 10px;
+  display: block;
+  width: 42px;
+  height: 10px;
+  padding: 4px 4px 4px 8px;
+  border-radius: 20px;
+  margin-top:16px;
+  margin-left: 4px;
+  background-color: #e6d6fc
+}
+
+.bracing{
+padding-top: 16px;
+font-family: roboto,arial;
+font-weight: bold;
+display:block;
+}
+  
+.second,.third{
+  color: #b1b5bb;
+  padding-top: 6px;
+  font-size: small;;
+
+}
+  
+.third{
+  color: #b1b5bb;
+  font-family: roboto,arial;
+  padding-top:0px;
+  font-size: small;
+}
+
+.forth{
+  color: #b1b5bb;
+  font-family: roboto,arial;
+  padding-top:0px;
+  font-size: small;
+
+}
+hr{
+  margin-top: 20px;
+}
+.author{
+  margin-top: 20px;
+  font-size: 13px;
+  color: #b1b5bb;
+}
